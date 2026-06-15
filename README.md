@@ -6,7 +6,8 @@ Built an end-to-end Data Engineering pipeline using PySpark, Databricks, and Del
 
 ## Architecture
 
-(Insert architecture image)
+<img width="1122" height="1402" alt="Architecture" src="https://github.com/user-attachments/assets/dbd82aee-1995-428f-ae2e-fa40e6e8f72e" />
+
 
 ## Technologies Used
 
