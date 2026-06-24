@@ -1,4 +1,4 @@
-# 🎥 YouTube Trending Analytics Pipeline
+# YouTube Trending Analytics Pipeline
 
 ## 📌 Project Overview
 
