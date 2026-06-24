@@ -1,4 +1,4 @@
-# 🎥 YouTube Trending Analytics Data Lakehouse
+# 🎥 YouTube Trending Analytics Pipeline
 
 ## 📌 Project Overview
 
