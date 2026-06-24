@@ -10,7 +10,8 @@ Implemented the Medallion Architecture (Bronze → Silver → Gold) to transform
 
 ## 🏗️ Architecture
 
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/079a5b35-a386-48ff-a5bd-daee5791041a" />
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/43962f18-12fd-422a-92f6-9dc948474102" />
+
 
 ---
 
