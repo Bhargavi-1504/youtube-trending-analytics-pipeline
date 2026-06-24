@@ -65,7 +65,6 @@ KPIs
 - Analyzed country-wise engagement patterns
 - Compared category performance across regions
 - Determined optimal upload hours for higher engagement
-- Determined optimal upload hours
 - Analyzed category-wise video performance
 
 ---
@@ -75,8 +74,6 @@ KPIs
 - Real-time streaming using Apache Kafka
 - Workflow orchestration using Apache Airflow
 - Cloud deployment on AWS or Azure
-- Automated data quality monitoring
-- Incremental data processing
 
 ---
 
